@@ -1,5 +1,5 @@
-window.samplePeople = (function(){
- return [
+(function(){
+ window.samplePeople = [
   {
     "isActive": true,
     "age": 37,
