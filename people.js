@@ -1,5 +1,4 @@
-(function(){
- window.samplePeople = [
+var samplePeople = [
   {
     "isActive": true,
     "age": 37,
@@ -4736,4 +4735,4 @@
     "company": "IMMUNICS",
     "email": "maricelaparker@immunics.com"
   }
-])();
+];
